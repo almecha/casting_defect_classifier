@@ -1,5 +1,6 @@
 # Casting defect classifier
 Simple CNN for binary classification of casting product defects
+
 The quality of casting is crucial in ensuring the safety and reliability of engineering structures.
 
 Casting defects can occur during the manufacturing process, leading to compromised performance, reduced durability, and potentially catastrophic failures. Automated defect detection using computer vision techniques is a promising solution to address this issue.
