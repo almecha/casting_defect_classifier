@@ -1,4 +1,4 @@
-# casting_defect_classifier
+# Casting defect classifier
 Simple CNN for binary classification of casting product defects
 The quality of casting is crucial in ensuring the safety and reliability of engineering structures.
 
